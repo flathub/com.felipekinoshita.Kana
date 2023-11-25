@@ -39,8 +39,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gitlab.gnome.org/fkinoshita/kana/uploads/5d1a626b376e072c51c2a0abc55799f6/kana-1.2.tar.xz",
-		    "sha256" : "d863ba806cb43ad817bb624a8e1d3735269eab5370f688f08cc25ab9cd2ea7f1"
+                    "url" : "https://gitlab.gnome.org/fkinoshita/kana/uploads/20654c098a7d1e80383799385c2e0d3c/kana-1.3.tar.xz",
+		    "sha256" : "972771adf9185d9465dccded2231db3c32728b1873860ae2d0a5047d888b981c"
                 }
             ]
         }
